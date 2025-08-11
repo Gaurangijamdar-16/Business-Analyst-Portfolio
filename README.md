@@ -1,22 +1,35 @@
-# Business-Analyst-Portfolio-Project - Gaurangi Jamdar
-A collection of my Business Analyst projects with detailed documentation, diagrams, and case studies, wireframes, Usecases, RTM, Test Cases,BRD , FRD ,Etc
+📊 Business Analyst Portfolio – GAURANGI JAMDAR
 
-# 📂 Business Analyst Project Portfolio
+Welcome to my Business Analyst Portfolio – a comprehensive collection of my projects showcasing key deliverables such as documentation, diagrams, use cases, wireframes, RTM, test cases, BRD, FRD, and more.
 
-Welcome to my Business Analyst portfolio!  
-This repository serves as a central hub containing links to all my detailed BA projects.
+This repository acts as a central hub, providing access to detailed case studies and end-to-end project documentation.
 
+📂 Projects
+1. PolicyBazaar – Pet Insurance Policy Enhancement
+Worked on enhancing the pet insurance policy flow for PolicyBazaar, involving stakeholder discussions, requirement gathering, and process optimization.
 
-## 🔹 Projects Links: 
+2. Jupiter Hospital – Online Appointment Booking System Enhancement
+Improved the appointment booking process by identifying system inefficiencies, redesigning workflows, and delivering actionable documentation.
 
-1. **Policy Bazzar** - Pet Insurance Policy Enhancemnet - https://github.com/Gaurangijamdar-16/Policy-Bazaar-Pet-Insurance-Project
-2. **Jupiter Hospital** - Online Appointment Booking System Enhancement - https://github.com/Gaurangijamdar-16/Jupiter-Hospital-Online-Appointment-Booking-System-Project
-3. **FinTrust Bank India** - New From scratch Development - https://github.com/Gaurangijamdar-16/FinTrust-Bank-India-Project
+3. FinTrust Bank India – Full Lifecycle Development Project
+Led a full-scale project from scratch, covering requirement elicitation, use case modeling, RTM, and end-user documentation for a banking application.
 
-## 📌 About Me
-I am a Business Analyst skilled in gathering requirements, creating documentation, designing workflows, and preparing artifacts for development and QA teams.
+👩‍💼 About Me
+I am a detail-oriented Business Analyst with experience in:
 
+Eliciting and documenting functional & non-functional requirements
 
-## 📬 Contact
-**Email:** gaurangijamdar9@gmail.com  
-**LinkedIn:** [GAURANGI JAMDAR](https://www.linkedin.com/in/gaurangi-jamdar-538b4b379)  
+Creating business requirement documents (BRD), functional requirement documents (FRD), and user stories
+
+Designing wireframes, workflows, and process diagrams
+
+Supporting cross-functional teams throughout the SDLC
+
+Preparing test cases and validating deliverables against requirements
+
+My focus is on bridging the gap between business needs and technical solutions.
+
+📬 Contact
+📧 **Email:** gaurangijamdar9@gmail.com
+
+🔗 **LinkedIn:** [GAURANGI JAMDAR](https://www.linkedin.com/in/gaurangi-jamdar-538b4b379) 
