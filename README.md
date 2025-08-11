@@ -4,18 +4,24 @@ Welcome to my Business Analyst Portfolio – a comprehensive collection of my pr
 
 This repository acts as a central hub, providing access to detailed case studies and end-to-end project documentation.
 
-📂 Projects
-1. FinTrust Bank India – Full Lifecycle Development Project
-Led a full-scale project from scratch, covering requirement elicitation, use case modeling, RTM, and end-user documentation for a banking application.
-https://github.com/Gaurangijamdar-16/FinTrust-Bank-India-Project
+## Projects
 
-2. PolicyBazaar – Pet Insurance Policy Enhancement
-Worked on enhancing the pet insurance policy flow for PolicyBazaar, involving stakeholder discussions, requirement gathering, and process optimization.
-https://github.com/Gaurangijamdar-16/Policy-Bazaar-Pet-Insurance-Project
+### 1. FinTrust Bank India – Full Lifecycle Development Project  
+Led a full-scale project from scratch, covering requirement elicitation, use case modeling, RTM, and end-user documentation for a banking application.  
+[GitHub Repository](https://github.com/Gaurangijamdar-16/FinTrust-Bank-India-Project)
 
-3. Jupiter Hospital – Online Appointment Booking System Enhancement
-Improved the appointment booking process by identifying system inefficiencies, redesigning workflows, and delivering actionable documentation.
-https://github.com/Gaurangijamdar-16/Jupiter-Hospital-Online-Appointment-Booking-System-Project
+---
+
+### 2. PolicyBazaar – Pet Insurance Policy Enhancement  
+Worked on enhancing the pet insurance policy flow for PolicyBazaar, involving stakeholder discussions, requirement gathering, and process optimization.  
+[GitHub Repository](https://github.com/Gaurangijamdar-16/Policy-Bazaar-Pet-Insurance-Project)
+
+---
+
+### 3. Jupiter Hospital – Online Appointment Booking System Enhancement  
+Improved the appointment booking process by identifying system inefficiencies, redesigning workflows, and delivering actionable documentation.  
+[GitHub Repository](https://github.com/Gaurangijamdar-16/Jupiter-Hospital-Online-Appointment-Booking-System-Project)
+
 
 👩‍💼 About Me
 I am a detail-oriented Business Analyst with experience in:
