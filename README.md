@@ -9,14 +9,14 @@ This repository serves as a central hub containing links to all my detailed BA p
 
 ## 🔹 Projects Links: 
 
-1. **Policy Bazzar** - Pet Insurance Policy Enhancemnet - https://github.com/Gaurangijamdar-16/Policy-Bazaar-Pet-Insurance-
-2. **Jupiter Hospital** - Online Appointment Booking System Enhancement - https://github.com/Gaurangijamdar-16/Jupiter-Hospital-Online-Appointment-Booking-System-
-3. **FinTrust Bank India** - New From scratch Development - https://github.com/Gaurangijamdar-16/FinTrust-Bank-India-Project 
+1. **Policy Bazzar** - Pet Insurance Policy Enhancemnet - https://github.com/Gaurangijamdar-16/Policy-Bazaar-Pet-Insurance-Project
+2. **Jupiter Hospital** - Online Appointment Booking System Enhancement - https://github.com/Gaurangijamdar-16/Jupiter-Hospital-Online-Appointment-Booking-System-Project
+3. **FinTrust Bank India** - New From scratch Development - https://github.com/Gaurangijamdar-16/FinTrust-Bank-India-Project
 
 ## 📌 About Me
 I am a Business Analyst skilled in gathering requirements, creating documentation, designing workflows, and preparing artifacts for development and QA teams.
 
 
 ## 📬 Contact
-📧 Email: gaurangijamdar9@gmail.com  
-
+**Email:** gaurangijamdar9@gmail.com  
+**LinkedIn:** [GAURANGI JAMDAR](https://www.linkedin.com/in/gaurangi-jamdar-538b4b379)  
