@@ -24,7 +24,7 @@ Worked on enhancing the pet insurance policy flow for PolicyBazaar, involving st
 ### 3. Jupiter Hospital – Online Appointment Booking System Enhancement  
 Improved the appointment booking process by identifying system inefficiencies, redesigning workflows, and delivering actionable documentation.  
 🔗 [GitHub Repository](https://github.com/Gaurangijamdar-16/Jupiter-Hospital-Online-Appointment-Booking-System-Project)
-Jupiter Hospital - Doctor Appointment Booking System UI
+
 ---
 
 ## 👩‍💼 About Me
