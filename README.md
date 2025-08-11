@@ -12,18 +12,21 @@ This repository acts as a central hub, providing access to detailed case studies
 ### 1. FinTrust Bank India – Full Lifecycle Development Project  
 Led a full-scale project from scratch, covering requirement elicitation, use case modeling, RTM, and end-user documentation for a banking application.  
 🔗 [GitHub Repository](https://github.com/Gaurangijamdar-16/FinTrust-Bank-India-Project)
+<img width="995" height="727" alt="FinTrust Bank Github Banner" src="https://github.com/user-attachments/assets/27666f95-4888-4bca-aef2-e30d74b1fa55" />
 
 ---
 
 ### 2. PolicyBazaar – Pet Insurance Policy Enhancement  
 Worked on enhancing the pet insurance policy flow for PolicyBazaar, involving stakeholder discussions, requirement gathering, and process optimization.  
 🔗 [GitHub Repository](https://github.com/Gaurangijamdar-16/Policy-Bazaar-Pet-Insurance-Project)
+<img width="1140" height="722" alt="Policy Bazaar Github Banner" src="https://github.com/user-attachments/assets/93939fbb-138f-4921-9500-5433241dee56" />
 
 ---
 
 ### 3. Jupiter Hospital – Online Appointment Booking System Enhancement  
 Improved the appointment booking process by identifying system inefficiencies, redesigning workflows, and delivering actionable documentation.  
 🔗 [GitHub Repository](https://github.com/Gaurangijamdar-16/Jupiter-Hospital-Online-Appointment-Booking-System-Project)
+<img width="1103" height="686" alt="Jupiter Github Banner" src="https://github.com/user-attachments/assets/b8e81796-97d6-4c4f-a8ed-49263ff01ee9" />
 
 ---
 
