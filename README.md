@@ -1,4 +1,4 @@
-# Business-Analyst-Portfolio-Project- Gaurangi Jamdar (Business Analyst)
+# Business-Analyst-Portfolio-Project - Gaurangi Jamdar
 A collection of my Business Analyst projects with detailed documentation, diagrams, and case studies, wireframes, Usecases, RTM, Test Cases,BRD , FRD ,Etc
 
 # 📂 Business Analyst Project Portfolio
