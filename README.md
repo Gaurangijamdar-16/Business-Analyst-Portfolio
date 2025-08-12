@@ -1,4 +1,4 @@
-[![Business Analyst Portfolio Banner](Banner.png)](Banner.png)
+[![Business Analyst Portfolio Banner](GITHUB%20Main%20Banner.png)](GITHUB%20Main%20Banner.png)
 
 # 📊 Business Analyst Portfolio – GAURANGI JAMDAR
 
