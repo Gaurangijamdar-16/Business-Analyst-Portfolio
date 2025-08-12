@@ -1,5 +1,6 @@
+[![Business Analyst Portfolio Banner](Banner.png)](Banner.png)
+
 # 📊 Business Analyst Portfolio – GAURANGI JAMDAR
-<img width="1141" height="637" alt="GitHub Main Banner" src="https://github.com/user-attachments/assets/2630bddd-d4ff-4fdf-b967-6f4e064dc883" />
 
 Welcome to my **Business Analyst Portfolio** – a comprehensive collection of my projects showcasing key deliverables such as documentation, diagrams, use cases, wireframes, RTM, test cases, BRD, FRD, and more.
 
